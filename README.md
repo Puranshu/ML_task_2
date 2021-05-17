@@ -6,5 +6,5 @@ Every Sub-Task of Task 2 is completed:
   3. Splitting Data
   4. 2 Classification Model
   5. Change parameters
-  6. Traine and predict
+  6. Train and predict
   7. Accuracy  
